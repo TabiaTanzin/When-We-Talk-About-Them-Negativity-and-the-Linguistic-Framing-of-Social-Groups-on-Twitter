@@ -22,9 +22,9 @@ The study uses **Llama-3.1-8B-Instant** for full-corpus annotation, selected aft
 
 ### Annotation workflow
 
-![Two-stage annotation pipeline showing keyword-based heuristic filtering followed by LLM quality-assurance filtering of candidate social-group tweets.](LLM_Labeled_Data/annotation_pipeline.png)
+![Two-stage annotation pipeline showing keyword-based heuristic filtering followed by LLM quality-assurance filtering of candidate social-group tweets.](LLM_Labeled_Data/annotation_pipleline.pdf)
 
-*Figure: Illustrative examples of Phase 1 heuristic retrieval and Phase 2 LLM-based filtering. The figure illustrates the annotation process; it does not represent the full analysis workflow. [View the original PDF](figures/annotation_pipeline.pdf).*
+*Figure: Illustrative examples of Phase 1 heuristic retrieval and Phase 2 LLM-based filtering. The figure illustrates the annotation process; it does not represent the full analysis workflow. [View the original PDF](LLM_Labeled_Data/annotation_pipleline.pdf).*
 
 ## Methods
 
