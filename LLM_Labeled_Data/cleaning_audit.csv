@@ -1,0 +1,8 @@
+step,rows
+raw_rows,152729
+invalid_date_excluded,0
+out_of_study_range_excluded,0
+invalid_target_group_excluded,7612
+optional_language_filter_excluded,0
+duplicate_tweet_group_pairs_excluded,7778
+retained_group_tweet_records,137339

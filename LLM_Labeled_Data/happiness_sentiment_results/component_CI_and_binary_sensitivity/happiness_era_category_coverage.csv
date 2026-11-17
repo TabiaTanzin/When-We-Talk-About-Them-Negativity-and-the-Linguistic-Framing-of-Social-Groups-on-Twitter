@@ -1,0 +1,121 @@
+specification,MappedGroup,era,Sentiment,matched_tokens,happiness_score
+three_category,Black Americans,2012-2015,Negative,6592,5.424224817961165
+three_category,Black Americans,2012-2015,Positive,346,5.7359826589595375
+three_category,Black Americans,2012-2015,Neutral,38,6.108421052631578
+three_category,Black Americans,2016-2019,Negative,85651,5.516464839873439
+three_category,Black Americans,2016-2019,Positive,7962,5.662921376538558
+three_category,Black Americans,2016-2019,Neutral,154,6.119675324675326
+three_category,Black Americans,2020-2022,Negative,114227,5.514055345933973
+three_category,Black Americans,2020-2022,Positive,10413,5.721326226831846
+three_category,Black Americans,2020-2022,Neutral,228,6.028201754385965
+three_category,Conservatives,2012-2015,Negative,5973,5.41552988448016
+three_category,Conservatives,2012-2015,Positive,8,6.6625
+three_category,Conservatives,2012-2015,Neutral,0,
+three_category,Conservatives,2016-2019,Negative,115601,5.4686647174332395
+three_category,Conservatives,2016-2019,Positive,277,5.343898916967509
+three_category,Conservatives,2016-2019,Neutral,33,5.546666666666667
+three_category,Conservatives,2020-2022,Negative,154322,5.482603970917951
+three_category,Conservatives,2020-2022,Positive,198,5.84989898989899
+three_category,Conservatives,2020-2022,Neutral,24,5.575
+three_category,Immigrants,2012-2015,Negative,3921,5.414769191532772
+three_category,Immigrants,2012-2015,Positive,55,5.661818181818182
+three_category,Immigrants,2012-2015,Neutral,26,6.135384615384615
+three_category,Immigrants,2016-2019,Negative,48325,5.3981969994826695
+three_category,Immigrants,2016-2019,Positive,616,5.793100649350651
+three_category,Immigrants,2016-2019,Neutral,796,6.224434673366834
+three_category,Immigrants,2020-2022,Negative,29475,5.459856149279051
+three_category,Immigrants,2020-2022,Positive,771,5.874824902723736
+three_category,Immigrants,2020-2022,Neutral,306,5.441732026143791
+three_category,Jews,2012-2015,Negative,3442,5.5613073794305645
+three_category,Jews,2012-2015,Positive,88,6.074318181818183
+three_category,Jews,2012-2015,Neutral,18,5.241666666666666
+three_category,Jews,2016-2019,Negative,36439,5.522039298553747
+three_category,Jews,2016-2019,Positive,235,5.89740425531915
+three_category,Jews,2016-2019,Neutral,196,5.526428571428572
+three_category,Jews,2020-2022,Negative,30771,5.593231614182185
+three_category,Jews,2020-2022,Positive,340,5.952764705882353
+three_category,Jews,2020-2022,Neutral,139,5.668201438848921
+three_category,LGBTQ+,2012-2015,Negative,981,5.457308868501529
+three_category,LGBTQ+,2012-2015,Positive,1066,5.707335834896811
+three_category,LGBTQ+,2012-2015,Neutral,8,5.6000000000000005
+three_category,LGBTQ+,2016-2019,Negative,18402,5.3823269209868485
+three_category,LGBTQ+,2016-2019,Positive,20343,5.544508184633535
+three_category,LGBTQ+,2016-2019,Neutral,386,5.610025906735751
+three_category,LGBTQ+,2020-2022,Negative,23354,5.408962490365676
+three_category,LGBTQ+,2020-2022,Positive,24874,5.552656589209615
+three_category,LGBTQ+,2020-2022,Neutral,551,5.743121597096189
+three_category,Liberals,2012-2015,Negative,2183,5.481566651397159
+three_category,Liberals,2012-2015,Positive,3,6.963333333333334
+three_category,Liberals,2012-2015,Neutral,0,
+three_category,Liberals,2016-2019,Negative,27577,5.422035391812018
+three_category,Liberals,2016-2019,Positive,300,5.731866666666667
+three_category,Liberals,2016-2019,Neutral,0,
+three_category,Liberals,2020-2022,Negative,22275,5.418207407407406
+three_category,Liberals,2020-2022,Positive,965,5.696683937823835
+three_category,Liberals,2020-2022,Neutral,20,5.829
+three_category,Muslims,2012-2015,Negative,5812,5.284507914659325
+three_category,Muslims,2012-2015,Positive,1444,5.96492382271468
+three_category,Muslims,2012-2015,Neutral,30,4.787999999999999
+three_category,Muslims,2016-2019,Negative,27681,5.25625772190311
+three_category,Muslims,2016-2019,Positive,4008,5.884361277445111
+three_category,Muslims,2016-2019,Neutral,111,5.685765765765765
+three_category,Muslims,2020-2022,Negative,17128,5.434098552078469
+three_category,Muslims,2020-2022,Positive,4203,5.988408279800144
+three_category,Muslims,2020-2022,Neutral,61,5.728196721311475
+three_category,Refugees,2012-2015,Negative,1679,4.876759976176295
+three_category,Refugees,2012-2015,Positive,115,5.574086956521739
+three_category,Refugees,2012-2015,Neutral,13,4.936923076923078
+three_category,Refugees,2016-2019,Negative,5950,4.984717647058824
+three_category,Refugees,2016-2019,Positive,1102,5.401669691470055
+three_category,Refugees,2016-2019,Neutral,61,5.283606557377049
+three_category,Refugees,2020-2022,Negative,3996,4.985070070070068
+three_category,Refugees,2020-2022,Positive,1397,5.642462419470293
+three_category,Refugees,2020-2022,Neutral,49,5.658367346938776
+negative_positive_only,Black Americans,2012-2015,Negative,6592,5.424224817961165
+negative_positive_only,Black Americans,2012-2015,Positive,346,5.7359826589595375
+negative_positive_only,Black Americans,2016-2019,Negative,85651,5.516464839873439
+negative_positive_only,Black Americans,2016-2019,Positive,7962,5.662921376538558
+negative_positive_only,Black Americans,2020-2022,Negative,114227,5.514055345933973
+negative_positive_only,Black Americans,2020-2022,Positive,10413,5.721326226831846
+negative_positive_only,Conservatives,2012-2015,Negative,5973,5.41552988448016
+negative_positive_only,Conservatives,2012-2015,Positive,8,6.6625
+negative_positive_only,Conservatives,2016-2019,Negative,115601,5.4686647174332395
+negative_positive_only,Conservatives,2016-2019,Positive,277,5.343898916967509
+negative_positive_only,Conservatives,2020-2022,Negative,154322,5.482603970917951
+negative_positive_only,Conservatives,2020-2022,Positive,198,5.84989898989899
+negative_positive_only,Immigrants,2012-2015,Negative,3921,5.414769191532772
+negative_positive_only,Immigrants,2012-2015,Positive,55,5.661818181818182
+negative_positive_only,Immigrants,2016-2019,Negative,48325,5.3981969994826695
+negative_positive_only,Immigrants,2016-2019,Positive,616,5.793100649350651
+negative_positive_only,Immigrants,2020-2022,Negative,29475,5.459856149279051
+negative_positive_only,Immigrants,2020-2022,Positive,771,5.874824902723736
+negative_positive_only,Jews,2012-2015,Negative,3442,5.5613073794305645
+negative_positive_only,Jews,2012-2015,Positive,88,6.074318181818183
+negative_positive_only,Jews,2016-2019,Negative,36439,5.522039298553747
+negative_positive_only,Jews,2016-2019,Positive,235,5.89740425531915
+negative_positive_only,Jews,2020-2022,Negative,30771,5.593231614182185
+negative_positive_only,Jews,2020-2022,Positive,340,5.952764705882353
+negative_positive_only,LGBTQ+,2012-2015,Negative,981,5.457308868501529
+negative_positive_only,LGBTQ+,2012-2015,Positive,1066,5.707335834896811
+negative_positive_only,LGBTQ+,2016-2019,Negative,18402,5.3823269209868485
+negative_positive_only,LGBTQ+,2016-2019,Positive,20343,5.544508184633535
+negative_positive_only,LGBTQ+,2020-2022,Negative,23354,5.408962490365676
+negative_positive_only,LGBTQ+,2020-2022,Positive,24874,5.552656589209615
+negative_positive_only,Liberals,2012-2015,Negative,2183,5.481566651397159
+negative_positive_only,Liberals,2012-2015,Positive,3,6.963333333333334
+negative_positive_only,Liberals,2016-2019,Negative,27577,5.422035391812018
+negative_positive_only,Liberals,2016-2019,Positive,300,5.731866666666667
+negative_positive_only,Liberals,2020-2022,Negative,22275,5.418207407407406
+negative_positive_only,Liberals,2020-2022,Positive,965,5.696683937823835
+negative_positive_only,Muslims,2012-2015,Negative,5812,5.284507914659325
+negative_positive_only,Muslims,2012-2015,Positive,1444,5.96492382271468
+negative_positive_only,Muslims,2016-2019,Negative,27681,5.25625772190311
+negative_positive_only,Muslims,2016-2019,Positive,4008,5.884361277445111
+negative_positive_only,Muslims,2020-2022,Negative,17128,5.434098552078469
+negative_positive_only,Muslims,2020-2022,Positive,4203,5.988408279800144
+negative_positive_only,Refugees,2012-2015,Negative,1679,4.876759976176295
+negative_positive_only,Refugees,2012-2015,Positive,115,5.574086956521739
+negative_positive_only,Refugees,2016-2019,Negative,5950,4.984717647058824
+negative_positive_only,Refugees,2016-2019,Positive,1102,5.401669691470055
+negative_positive_only,Refugees,2020-2022,Negative,3996,4.985070070070068
+negative_positive_only,Refugees,2020-2022,Positive,1397,5.642462419470293

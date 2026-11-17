@@ -1,0 +1,2 @@
+n_pooled_cells,n_groups,n_topics,n_years,reference_topic,year_controlled,adjustment,r_squared,wald_chi_square,degrees_of_freedom,p_value
+1213,8,25,11,Republican Voters,True,group + year,0.6044255912957657,945.0982836798346,24,4.0038981793232564e-184

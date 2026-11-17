@@ -1,0 +1,14 @@
+{
+  "n_unique_tweets": 145419,
+  "n_features": 54530,
+  "n_dimensions_main": 50,
+  "anchor_percentile": 0.05,
+  "BOOT_N": 100,
+  "NULL_N": 500,
+  "svd_term_scaling": "none",
+  "tfidf_min_df": 2,
+  "tfidf_max_features": null,
+  "tfidf_sublinear_tf": false,
+  "ci_method": "percentile of within-year tweet bootstrap; fixed TF-IDF/IDF",
+  "permutation_null": "lexicon score shuffle within word document-frequency quantile bins"
+}

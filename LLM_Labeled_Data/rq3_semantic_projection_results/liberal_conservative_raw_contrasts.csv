@@ -1,0 +1,3 @@
+contrast,axis,baseline_difference,CI_lower,CI_upper,P_difference_positive_boot
+Liberals - Conservatives,Danger,-0.08318655422062253,-0.1307893484231275,-0.012564107589137962,0.01
+Conservatives - Liberals,Power,0.049461222333932346,-0.031125631190938214,0.09692245697738604,0.85

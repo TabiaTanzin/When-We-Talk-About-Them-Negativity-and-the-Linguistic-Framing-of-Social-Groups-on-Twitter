@@ -1,0 +1,6 @@
+N = 152729
+Groups = 8; topics = 25
+Pearson chi-square = 384127.7075; df = 168; p = 0
+Cramer's V = 0.5994
+Expected counts below 5: 0/200 cells
+Cell residual p-values adjusted with BH across ALL group-by-topic cells.

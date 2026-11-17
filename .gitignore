@@ -1,0 +1,21 @@
+
+# Exclude Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Exclude files at or above GitHub's 100 MiB limit
+/LLM_Labeled_Data/topic_modeling_results.csv
+/LLM_Labeled_Data/embeddings/glove.6B.300d.txt
+/LLM_Labeled_Data/User-Study/merged_all.csv
+/LLM_Labeled_Data/sentiment_audit_outputs/strict_deduplicated_with_sentiment.csv
+/LLM_Labeled_Data/sentiment_audit_outputs/expanded_party_aliases_deduplicated_with_sentiment.csv
+
+# Ignore Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Files exceeding GitHub size limit
+/LLM_Labeled_Data/topic_modeling_results.csv
+/LLM_Labeled_Data/embeddings/glove.6B.300d.txt
+/LLM_Labeled_Data/User-Study/merged_all.csv
+/LLM_Labeled_Data/sentiment_audit_outputs/strict_deduplicated_with_sentiment.csv
+/LLM_Labeled_Data/sentiment_audit_outputs/expanded_party_aliases_deduplicated_with_sentiment.csv
+**/.ipynb_checkpoints/
